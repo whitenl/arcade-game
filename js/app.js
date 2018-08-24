@@ -92,15 +92,16 @@ class Player {
 		}
 	}
 
+	//places player back in start position
 	startOver() {
-				console.log("In start over ()");
-            	this.x = this.xStart;
+				this.x = this.xStart;
             	this.y = this.yStart;
             	this.stopPlaying = false;
 	}
 
+	//modal popup and related event listeners 
 	modal() {
-		console.log("In modal ()");
+		
 		const popup = document.querySelector('.modal');
 		popup.classList.remove('hide');  
 
@@ -112,11 +113,8 @@ class Player {
 	    	popup.classList.add('hide');
 	    	player.stopPlaying = true;
 		});
-
 	}	
 	
-
-
 	update() {
 		//checks for a collision
 		
@@ -132,11 +130,7 @@ class Player {
 			}
 		}
 	}
-
-
 }
-
-
 
 // Now instantiate your objects.
 // Place all enemy objects in an array called allEnemies

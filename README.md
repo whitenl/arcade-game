@@ -1,8 +1,8 @@
 How to run
 ===============================
 
-1. Dowload Zip file
-2. Click [here](https://github.com/whitenl/arcade-game/archive/master.zip) to download zip file of the game
+1. Click [here](https://github.com/whitenl/arcade-game/archive/master.zip) to download zip file of the game
+2. Extract the files from the zip folder
 3. Double-click index.html to open the game in your browser.
 
 How to play

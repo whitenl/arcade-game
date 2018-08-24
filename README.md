@@ -1,15 +1,15 @@
 How to run
 ===============================
 
-Dowload Zip file
-Click [here](https://github.com/lacyjpr/arcade/archive/master.zip) to download zip file of the game
-Double-click index.html to open the game in your browser.
+1. Dowload Zip file
+2. Click [here](https://github.com/lacyjpr/arcade/archive/master.zip) to download zip file of the game
+3. Double-click index.html to open the game in your browser.
 
 How to play
 ===============================
 
-Use the directional arrow keys to move the player.
-Avoid the bugs racing to get you
+* Use the directional arrow keys to move the player.
+* Avoid the bugs racing to get you
 
 How to win
 ===============================

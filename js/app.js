@@ -138,7 +138,7 @@ class Player {
 const allEnemies = [];
 const enemy1 = new Enemy(-101, 0, 100);
 const enemy2 = new Enemy(-101, 83, 150);
-const enemy3 = new Enemy(-101, 83, 290);
+const enemy3 = new Enemy(-101, 83, 280);
 const enemy4 = new Enemy(-202, 166, 200);
 allEnemies.push(enemy1,enemy2,enemy3,enemy4);
 const player = new Player();

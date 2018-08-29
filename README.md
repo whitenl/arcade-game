@@ -1,6 +1,11 @@
 How to run
 ===============================
 
+Click [here](https://whitenl.github.io/arcade-game/) to play the game
+
+OR
+
+Download and run on your computer
 1. Click [here](https://github.com/whitenl/arcade-game/archive/master.zip) to download zip file of the game
 2. Extract the files from the zip folder
 3. Double-click index.html to open the game in your browser.
